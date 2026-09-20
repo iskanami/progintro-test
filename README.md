@@ -1,2 +1,2 @@
 Progintro Test
-Under development
+Verze z vetve dev
