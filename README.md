@@ -1,3 +1,3 @@
 Progintro Test
-Under development
+Verze z vetve main
 Web edit
